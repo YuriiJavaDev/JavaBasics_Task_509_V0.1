@@ -1,4 +1,4 @@
-## Arrangement of elements.
+## WindowListener – Handling window events in Swing.
 
 ### When the user interacts with a JFrame window, the following events occur:
 
